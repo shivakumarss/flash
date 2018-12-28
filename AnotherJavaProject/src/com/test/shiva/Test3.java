@@ -7,5 +7,7 @@ public class Test3 {
 		//
 //		 Exit now
 		System.exit(-1);
+		
+		System.out.println("Test Modified");
 	}
 }
